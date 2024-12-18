@@ -1,0 +1,4 @@
+#Google Cloud run command 
+>gcloud app deploy app.yaml --project diabetes-prediction-406921
+#deploy link
+[https://diabetes-prediction-406921.dt.r.appspot.com]
